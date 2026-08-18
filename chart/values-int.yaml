@@ -3,7 +3,7 @@ environment: int
 replicaCount: 1
 
 image:
-  repository: rakeshacr01.azurecr.io/axion-ingestion-service
+  repository: rakeshacr01.azurecr.io/int-axion-ingestion-service
   pullPolicy: Always
   tag: "int-latest"
 
